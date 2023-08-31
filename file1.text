@@ -1,3 +1,7 @@
 1st from cloud
+<<<<<<< HEAD
 2nd line from local - change from cloud
+=======
+2nd line from local-another local change
+>>>>>>> mySideBranch
 3rd line from local
